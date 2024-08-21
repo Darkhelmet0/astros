@@ -4,7 +4,7 @@ logo_url: /logo.svg
 
 backend:
     name: "github"
-    repo: zankhq/astros
+    repo: Darkhelmet0/astros
     branch: main
     base_url: https://astros-40e.pages.dev
     automatic_deployments: false
